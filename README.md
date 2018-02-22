@@ -37,3 +37,12 @@ $ jupyter notebook
 ```sh
 C:\> jupyter notebook
 ```
+Kemudian navigasi ke folder yang telah kalian simpan.
+
+### Tampilan Jupyter notebook
+
+![jupyter-notebook](images/jupyter-notebook.png)
+
+## Inspirasi
+
+Materi repositori ini terinspirasi oleh setelah saya menyelesaikan [Data Camp](https://datacamp.com)Data Science Python Career Track. Semua data yang dipergunakan di repositori ini terdapat pada DataCamp. Silahkan kunjungi DataCamp karena merupakan tempat yang keren untuk memulai belajar Data Science.
