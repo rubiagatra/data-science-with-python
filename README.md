@@ -8,7 +8,7 @@ Silahkan download [Anaconda](https://anaconda.com/download). Install sesuai deng
 ## Menggunakan Anaconda Navigator
 
 - MacOS dan Linux:
-i   - Buka terminal, kemudian ketik
+   - Buka terminal, kemudian ketik
 
 ```sh
 $ anaconda-navigator
@@ -20,3 +20,20 @@ $ anaconda-navigator
 Tampilan Anaconda Navigator akan seperti ini.
 
 ![Anaconda Navigator](images/anaconda-navigator.png)
+
+Silahkan buka launch jupyter notebook kemudian navigasi ke folder yang telah kalian simpan.
+
+## Menggunakan Terminal atau Anaconda Prompt
+
+- MacOS dan Linux:
+   - Buka terminal, kemudian ketik
+
+```sh
+$ jupyter notebook
+```
+- Windows:
+   - Buka Anaconda Prompt, kemudian ketik
+
+```sh
+C:\> jupyter notebook
+```
