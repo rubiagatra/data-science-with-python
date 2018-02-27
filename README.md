@@ -54,7 +54,7 @@ Didistribusikan menggunakan lisensi MIT. Silahkan melihat `` LICENSE `` untuk le
 ## Kontribusi
 1. Silahkan di Fork  
 2. Buat branch baru (`git checkout -b feature/fooBar`)
-3. Commit perubahan yang ada(`git commit -am 'Add some fooBar'`)
-4. Push pada branch yang sudah ada (`git push origin feature/fooBar`)
-5. Silahkan isi nama anda beserta tautan github anda di CONTRIBUTORS.md
+3. Silahkan isi nama anda beserta tautan github anda di CONTRIBUTORS.md
+4. Commit perubahan yang ada(`git commit -am 'Add some fooBar'`)
+5. Push pada branch yang sudah ada (`git push origin feature/fooBar`)
 6. Buat sebuah Pull Request baru
