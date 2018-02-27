@@ -3,7 +3,7 @@
 
 ## Pemasangan (Installation) dan Penggunaan Pertama 
 
-Silahkan download [Anaconda](https://anaconda.com/download). Install sesuai dengan sistem operasi masing - masing. Setelah itu clone / download repositori ini ke folder kaliang inginkan.
+Silahkan download [Anaconda](https://anaconda.com/download). Install sesuai dengan sistem operasi masing - masing. Setelah itu clone / download repositori ini ke folder kalian inginkan.
 
 ## Menggunakan Anaconda Navigator
 
