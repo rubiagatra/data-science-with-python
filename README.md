@@ -21,7 +21,7 @@ Tampilan Anaconda Navigator akan seperti ini.
 
 ![Anaconda Navigator](images/anaconda-navigator.png)
 
-Silahkan launch jupyter notebook kemudian navigasi ke folder yang telah kalian simpan.
+Silahkan launch jupyter lab kemudian navigasi ke folder yang telah kalian simpan.
 
 ## Menggunakan Terminal atau Anaconda Prompt
 
@@ -29,19 +29,19 @@ Silahkan launch jupyter notebook kemudian navigasi ke folder yang telah kalian s
    - Buka terminal, kemudian ketik
 
 ```sh
-$ jupyter notebook
+$ jupyter -lab
 ```
 - Windows:
    - Buka Anaconda Prompt, kemudian ketik
 
 ```sh
-C:\> jupyter notebook
+C:\> jupyter-lab
 ```
 Kemudian navigasi ke folder yang telah kalian simpan.
 
-## Tampilan Jupyter notebook
+## Tampilan Jupyter-lab
 
-![jupyter-notebook](images/jupyter-notebook.png)
+![jupyter-notebook](images/jupyter-lab:.png)
 
 ## Inspirasi
 
