@@ -35,7 +35,7 @@ $ jupyter-lab
    - Buka Anaconda Prompt, kemudian ketik
 
 ```sh
-C:\> jupyter-lab
+C:\> jupyter-lab    
 ```
 Kemudian navigasi ke folder yang telah kalian simpan.
 
