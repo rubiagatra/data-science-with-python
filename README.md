@@ -29,7 +29,7 @@ Silahkan launch jupyter lab kemudian navigasi ke folder yang telah kalian simpan
    - Buka terminal, kemudian ketik
 
 ```sh
-$ jupyter -lab
+$ jupyter-lab
 ```
 - Windows:
    - Buka Anaconda Prompt, kemudian ketik
@@ -41,7 +41,7 @@ Kemudian navigasi ke folder yang telah kalian simpan.
 
 ## Tampilan Jupyter-lab
 
-![jupyter-notebook](images/jupyter-lab:.png)
+![jupyter-notebook](images/jupyter-lab.png)
 
 ## Inspirasi
 
