@@ -61,7 +61,7 @@ Kemudian navigasi ke folder yang telah kalian simpan.
 ![jupyter-notebook](images/jupyter-notebook.png)
 
 ## NLP Dataset 
-- NLP dataset dapat diundun [disini](https://drive.google.com/file/d/1IX9cWMwzc4v8lLivk19k2LV2JrCj0KD1/view?usp=sharing")
+- NLP dataset dapat diunduh [disini](https://drive.google.com/file/d/1IX9cWMwzc4v8lLivk19k2LV2JrCj0KD1/view?usp=sharing")
 ## Inspirasi
 
 Materi repositori ini terinspirasi setelah saya menyelesaikan [Data Camp](https://datacamp.com)       Data Science Python Career Track. Semua data yang dipergunakan di repositori ini terdapat pada DataCamp. Silahkan kunjungi DataCamp karena merupakan tempat yang keren untuk memulai belajar Data Science.
